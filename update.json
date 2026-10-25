@@ -1,1 +1,1 @@
-{"versionCode": 168, "versionName": "7.3.5", "url": "https://fastly.jsdelivr.net/gh/LinXinyu627/shipinsuoyin@main/videosite-7.3.5.apk", "notes": "进度条seek问题加诊断日志：记录拖动目标/真实时长/seek后播放器实际位置与状态（用于定位从头播放根因）"}
+{"versionCode": 169, "versionName": "7.3.6", "url": "https://fastly.jsdelivr.net/gh/LinXinyu627/shipinsuoyin@main/videosite-7.3.6.apk", "notes": "拖动进度条从头（第三层）：诊断证实seek位置正确但seek后码率从1920x1080降档切到720x1280重新解析画面从头——固定最高码率轨道禁降档切换"}
