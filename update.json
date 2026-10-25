@@ -1,1 +1,1 @@
-{"versionCode": 139, "versionName": "7.2.78", "url": "https://fastly.jsdelivr.net/gh/LinXinyu627/shipinsuoyin@main/videosite-7.2.78.apk", "notes": "HlsCacheProxy 整体回归 v7.2.16 版（实测可播），仅保留 xbka 防盗链 Referer"}
+{"versionCode": 140, "versionName": "7.2.79", "url": "https://fastly.jsdelivr.net/gh/LinXinyu627/shipinsuoyin@main/videosite-7.2.79.apk", "notes": "新增「外部播放器」按钮：调起 MX Player/VLC 等播放器播放 M3U8（绕过 App 内播放链路）"}
