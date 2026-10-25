@@ -1,1 +1,1 @@
-{"versionCode": 144, "versionName": "7.2.83", "url": "https://fastly.jsdelivr.net/gh/LinXinyu627/shipinsuoyin@main/videosite-7.2.83.apk", "notes": "集成 ExoPlayer(Media3) 内嵌播放器：系统播放器 8s 拉不动分片自动切内嵌播放器软件内直接播放"}
+{"versionCode": 145, "versionName": "7.2.84", "url": "https://fastly.jsdelivr.net/gh/LinXinyu627/shipinsuoyin@main/videosite-7.2.84.apk", "notes": "修复 ExoPlayer 崩溃（补齐 androidx.collection 依赖库）"}
