@@ -1,1 +1,1 @@
-{"versionCode": 127, "versionName": "7.2.66", "url": "https://my.feishu.cn/file/PilAbpscNoGEVlxbaLychfoM6R5", "notes": "更新/索引源fastly优先（cdn.jsdelivr在部分网络拒连，fastly实测可达）"}
+{"versionCode": 129, "versionName": "7.2.68", "url": "https://my.feishu.cn/file/Mfe6bW8zBocrzfxJorbckwC76Vb", "notes": "修复三源缓冲超时：代理上游拉取改Cronet(加密SNI绕过DPI拦截)，缓冲超时自动转直连"}
