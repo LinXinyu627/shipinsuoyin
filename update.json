@@ -1,1 +1,1 @@
-{"versionCode": 157, "versionName": "7.2.96", "url": "https://fastly.jsdelivr.net/gh/LinXinyu627/shipinsuoyin@main/videosite-7.2.96.apk", "notes": "画面改为CROP填满模式：等比放大铺满视频区（不变形无黑边），布局尺寸实现更可靠"}
+{"versionCode": 158, "versionName": "7.2.97", "url": "https://fastly.jsdelivr.net/gh/LinXinyu627/shipinsuoyin@main/videosite-7.2.97.apk", "notes": "画面改回等比完整显示：不变形不裁切，视频全部可见（黑边补齐）"}
