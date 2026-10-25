@@ -1,1 +1,1 @@
-{"versionCode": 173, "versionName": "7.3.10", "url": "https://fastly.jsdelivr.net/gh/LinXinyu627/shipinsuoyin@main/videosite-7.3.10.apk", "notes": "更新功能优化：下载进度对话框（实时显示已下载MB/换源提示）+ 下载完成通知栏提醒 + 安装前自动引导开启未知来源安装权限"}
+{"versionCode": 174, "versionName": "7.3.11", "url": "https://fastly.jsdelivr.net/gh/LinXinyu627/shipinsuoyin@main/videosite-7.3.11.apk", "notes": "修复WebView播放时点击无反馈：新增手势捕获层，单击控制栏/双击暂停/亮度音量/横滑seek全部恢复（图帖浏览不受影响）"}
