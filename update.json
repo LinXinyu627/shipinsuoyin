@@ -1,1 +1,1 @@
-{"versionCode": 130, "versionName": "7.2.69", "url": "https://my.feishu.cn/file/DBSLbyJedoaMfJxTk4ZccTxW6b5", "notes": "修复应用内更新下载失败：APK下载改Cronet(加密SNI绕过DPI)"}
+{"versionCode": 131, "versionName": "7.2.70", "url": "https://my.feishu.cn/file/Cq1xb8OCYoBHoexzhqjctmn36mc", "notes": "解析失败提示细分：纯视频站失效/下架视频提示更准确"}
