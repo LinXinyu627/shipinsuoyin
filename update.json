@@ -1,1 +1,1 @@
-{"versionCode": 149, "versionName": "7.2.88", "url": "https://fastly.jsdelivr.net/gh/LinXinyu627/shipinsuoyin@main/videosite-7.2.88.apk", "notes": "修复TextureView不支持背景色导致的崩溃，黑底改由视频容器承担"}
+{"versionCode": 150, "versionName": "7.2.89", "url": "https://fastly.jsdelivr.net/gh/LinXinyu627/shipinsuoyin@main/videosite-7.2.89.apk", "notes": "修复播放就绪后中央解析中提示框不消失的问题"}
