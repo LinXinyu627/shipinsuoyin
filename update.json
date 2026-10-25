@@ -1,1 +1,1 @@
-{"versionCode": 174, "versionName": "7.3.11", "url": "https://fastly.jsdelivr.net/gh/LinXinyu627/shipinsuoyin@main/videosite-7.3.11.apk", "notes": "修复WebView播放时点击无反馈：新增手势捕获层，单击控制栏/双击暂停/亮度音量/横滑seek全部恢复（图帖浏览不受影响）"}
+{"versionCode": 175, "versionName": "7.3.12", "url": "https://fastly.jsdelivr.net/gh/LinXinyu627/shipinsuoyin@main/videosite-7.3.12.apk", "notes": "修复更新下载卡在源1/4：APK大文件下载改为ghproxy.net优先（jsDelivr大文件301回源raw手机端不可达会卡），单段超时60s缩短到20s，坏源快速跳过"}
