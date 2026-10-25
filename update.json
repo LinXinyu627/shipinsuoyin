@@ -1,1 +1,1 @@
-{"versionCode": 187, "versionName": "7.3.24", "url": "https://fastly.jsdelivr.net/gh/LinXinyu627/shipinsuoyin@main/videosite-7.3.24.apk", "notes": "修复WebView播放时长按屏幕误提示「长按倍速需在播放中」：改用JS桥播放状态判断（原判断用了已停用的videoView恒为false），长按倍速/松手恢复走HTML5 playbackRate"}
+{"versionCode": 188, "versionName": "7.3.25", "url": "https://fastly.jsdelivr.net/gh/LinXinyu627/shipinsuoyin@main/videosite-7.3.25.apk", "notes": "修复继续播放不从上次位置续播：WebView 播放模式主动读取保存进度并恢复（原逻辑只在系统播放器 PREPARED 时读，WebView 模式恒为0从头播），修复毫秒/秒单位换算"}
