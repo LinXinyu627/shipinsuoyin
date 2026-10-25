@@ -1,1 +1,1 @@
-{"versionCode": 125, "versionName": "7.2.64", "url": "https://my.feishu.cn/file/C0zcbsIIfoE447xsU0NcSFI76Tc", "notes": "更新多源一致性：CDN缓存旧值时仍从其他源发现新版"}
+{"versionCode": 126, "versionName": "7.2.65", "url": "https://my.feishu.cn/file/Kk0EbgRyfoYNyhxzIPBcGG8q6nf", "notes": "移除内嵌索引，APK由28MB降至6.8MB；索引走GitHub多源热更"}
