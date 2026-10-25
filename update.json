@@ -1,1 +1,1 @@
-{"versionCode": 155, "versionName": "7.2.94", "url": "https://fastly.jsdelivr.net/gh/LinXinyu627/shipinsuoyin@main/videosite-7.2.94.apk", "notes": "修复视频画面变形：尺寸回调兜底+首帧再适配+延迟重试，切源重置尺寸"}
+{"versionCode": 156, "versionName": "7.2.95", "url": "https://fastly.jsdelivr.net/gh/LinXinyu627/shipinsuoyin@main/videosite-7.2.95.apk", "notes": "画面比例：轮询兜底等比适配+适配参数写入网络诊断日志"}
