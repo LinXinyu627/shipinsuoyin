@@ -1,1 +1,1 @@
-{"versionCode": 151, "versionName": "7.2.90", "url": "https://fastly.jsdelivr.net/gh/LinXinyu627/shipinsuoyin@main/videosite-7.2.90.apk", "notes": "修复缓冲中误显示「已暂停·点击继续」提示框，仅真正暂停时显示"}
+{"versionCode": 152, "versionName": "7.2.91", "url": "https://fastly.jsdelivr.net/gh/LinXinyu627/shipinsuoyin@main/videosite-7.2.91.apk", "notes": "修复首页收录0条(新装自动同步索引+流式统计)；长按倍速/音频焦点/进度保存适配ExoPlayer"}
