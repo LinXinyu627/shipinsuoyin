@@ -1,1 +1,1 @@
-{"versionCode": 124, "versionName": "7.2.63", "url": "https://my.feishu.cn/file/U8YtbMK8BopqcoxDGKRczC1b6Mm", "notes": "首页底部版本行去重"}
+{"versionCode": 125, "versionName": "7.2.64", "url": "https://my.feishu.cn/file/C0zcbsIIfoE447xsU0NcSFI76Tc", "notes": "更新多源一致性：CDN缓存旧值时仍从其他源发现新版"}
