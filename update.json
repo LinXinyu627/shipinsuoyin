@@ -1,1 +1,1 @@
-{"versionCode": 141, "versionName": "7.2.80", "url": "https://fastly.jsdelivr.net/gh/LinXinyu627/shipinsuoyin@main/videosite-7.2.80.apk", "notes": "播放失败自动弹窗：软件内浏览器内核播放（WebView，同自带浏览器效果）/ 外部播放器"}
+{"versionCode": 142, "versionName": "7.2.81", "url": "https://fastly.jsdelivr.net/gh/LinXinyu627/shipinsuoyin@main/videosite-7.2.81.apk", "notes": "WebView 直接加载源站播放页（复刻浏览器打开页面能播的路径）+ 缓冲20s尽快弹窗"}
