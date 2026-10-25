@@ -1,1 +1,1 @@
-{"versionCode": 185, "versionName": "7.3.22", "url": "https://fastly.jsdelivr.net/gh/LinXinyu627/shipinsuoyin@main/videosite-7.3.22.apk", "notes": "更新下载镜像换成国内更快的 ghfast.top 优先（gh-proxy.com/ghproxy.net 兜底）；播放页进度条区域缩小为正常范围（触摸区从36dp缩回20dp）"}
+{"versionCode": 186, "versionName": "7.3.23", "url": "https://fastly.jsdelivr.net/gh/LinXinyu627/shipinsuoyin@main/videosite-7.3.23.apk", "notes": "功能去重：①列表页随机入口统一为「随机看一个」大按钮，删除右上角重复的随机图标；②首页「视频站」标题下方的小字注释取消"}
