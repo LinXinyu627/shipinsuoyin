@@ -1,1 +1,1 @@
-{"versionCode": 176, "versionName": "7.3.13", "url": "https://fastly.jsdelivr.net/gh/LinXinyu627/shipinsuoyin@main/videosite-7.3.13.apk", "notes": "更新下载进度条显示：先探测APK总大小，进度条按百分比实时走，并显示已下载MB/总MB/百分比；探测失败时显示已下载MB"}
+{"versionCode": 177, "versionName": "7.3.14", "url": "https://fastly.jsdelivr.net/gh/LinXinyu627/shipinsuoyin@main/videosite-7.3.14.apk", "notes": "播放页进度条：滑动屏幕（横滑seek/竖滑亮度音量）时自动调出控制栏和进度条，8秒无操作自动隐藏，不常驻不遮挡画面"}
