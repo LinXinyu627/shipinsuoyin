@@ -1,1 +1,1 @@
-{"versionCode": 156, "versionName": "7.2.95", "url": "https://fastly.jsdelivr.net/gh/LinXinyu627/shipinsuoyin@main/videosite-7.2.95.apk", "notes": "画面比例：轮询兜底等比适配+适配参数写入网络诊断日志"}
+{"versionCode": 157, "versionName": "7.2.96", "url": "https://fastly.jsdelivr.net/gh/LinXinyu627/shipinsuoyin@main/videosite-7.2.96.apk", "notes": "画面改为CROP填满模式：等比放大铺满视频区（不变形无黑边），布局尺寸实现更可靠"}
