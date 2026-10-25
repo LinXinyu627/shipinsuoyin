@@ -1,1 +1,1 @@
-{"versionCode": 170, "versionName": "7.3.7", "url": "https://fastly.jsdelivr.net/gh/LinXinyu627/shipinsuoyin@main/videosite-7.3.7.apk", "notes": "拖动从头（第四层）：诊断证实seek位置正确但seek后媒体重解析（尺寸1920x1080变720x1280）画面从头渲染——检测尺寸变化后强制重载媒体并二次定位到目标位置"}
+{"versionCode": 171, "versionName": "7.3.8", "url": "https://fastly.jsdelivr.net/gh/LinXinyu627/shipinsuoyin@main/videosite-7.3.8.apk", "notes": "播放默认改为浏览器内核（WebView HTML5 video）——与手机自带浏览器同款播放器，进度条seek正常；直连源站m3u8，失败/超时自动回退ExoPlayer，支持断点续播"}
