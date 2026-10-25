@@ -1,1 +1,1 @@
-{"versionCode": 146, "versionName": "7.2.85", "url": "https://fastly.jsdelivr.net/gh/LinXinyu627/shipinsuoyin@main/videosite-7.2.85.apk", "notes": "再修 ExoPlayer 崩溃（补齐 CircularIntArray.popFirst 等缺失方法）"}
+{"versionCode": 147, "versionName": "7.2.86", "url": "https://fastly.jsdelivr.net/gh/LinXinyu627/shipinsuoyin@main/videosite-7.2.86.apk", "notes": "默认直接用ExoPlayer播放：修复中间蓝色小块、进度条可拖动快进快退、倍速/手势seek全部适配"}
