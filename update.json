@@ -1,1 +1,1 @@
-{"versionCode": 181, "versionName": "7.3.18", "url": "https://fastly.jsdelivr.net/gh/LinXinyu627/shipinsuoyin@main/videosite-7.3.18.apk", "notes": "更新按钮防重复：点击4秒内防抖只能触发一次，检查与下载均加防重入标志——连点不再反复弹出下载进度窗，下载中重复触发只提示一次"}
+{"versionCode": 182, "versionName": "7.3.19", "url": "https://fastly.jsdelivr.net/gh/LinXinyu627/shipinsuoyin@main/videosite-7.3.19.apk", "notes": "播放页优化：①右上角与右下角重复的全屏按钮只保留右下角一个；②全屏状态下按返回/左上角箭头直接退出播放页，不再退回竖屏（退出全屏请点右下角全屏按钮）"}
