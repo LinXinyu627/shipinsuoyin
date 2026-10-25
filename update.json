@@ -1,1 +1,1 @@
-{"versionCode": 136, "versionName": "7.2.75", "url": "https://fastly.jsdelivr.net/gh/LinXinyu627/shipinsuoyin@main/videosite-7.2.75.apk", "notes": "播放：多码率强制最低码率+缓冲等待60s；更新：APK分段Range下载（1MB/段）"}
+{"versionCode": 137, "versionName": "7.2.76", "url": "https://fastly.jsdelivr.net/gh/LinXinyu627/shipinsuoyin@main/videosite-7.2.76.apk", "notes": "播放回归直连优先（早期可播路径），缓冲超时自动切缓存代理重播一次"}
