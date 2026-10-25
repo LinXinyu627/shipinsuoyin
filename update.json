@@ -1,1 +1,1 @@
-{"versionCode": 140, "versionName": "7.2.79", "url": "https://fastly.jsdelivr.net/gh/LinXinyu627/shipinsuoyin@main/videosite-7.2.79.apk", "notes": "新增「外部播放器」按钮：调起 MX Player/VLC 等播放器播放 M3U8（绕过 App 内播放链路）"}
+{"versionCode": 141, "versionName": "7.2.80", "url": "https://fastly.jsdelivr.net/gh/LinXinyu627/shipinsuoyin@main/videosite-7.2.80.apk", "notes": "播放失败自动弹窗：软件内浏览器内核播放（WebView，同自带浏览器效果）/ 外部播放器"}
