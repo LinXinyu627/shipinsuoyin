@@ -1,1 +1,1 @@
-{"versionCode": 162, "versionName": "7.2.101", "url": "https://fastly.jsdelivr.net/gh/LinXinyu627/shipinsuoyin@main/videosite-7.2.101.apk", "notes": "修复播放失败状态卡「点此重试」点击无效：显示点此重试即自动置可点击标记"}
+{"versionCode": 163, "versionName": "7.2.102", "url": "https://fastly.jsdelivr.net/gh/LinXinyu627/shipinsuoyin@main/videosite-7.2.102.apk", "notes": "修复App内播不了而外部浏览器能播：ExoPlayer与浏览器内核播放请求分片时补上源站防盗链Referer"}
