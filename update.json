@@ -1,1 +1,1 @@
-{"versionCode": 153, "versionName": "7.2.92", "url": "https://fastly.jsdelivr.net/gh/LinXinyu627/shipinsuoyin@main/videosite-7.2.92.apk", "notes": "失效视频自动随机换+登记黑名单不再出现；移除外部播放器选项；Exo播放画面等比适配不拉伸"}
+{"versionCode": 154, "versionName": "7.2.93", "url": "https://fastly.jsdelivr.net/gh/LinXinyu627/shipinsuoyin@main/videosite-7.2.93.apk", "notes": "视频分类自动识别混入的图文帖/文字帖并从列表剔除；失效/图帖/文字帖登记类型分开管理"}
