@@ -1,1 +1,1 @@
-{"versionCode": 189, "versionName": "7.3.26", "url": "https://fastly.jsdelivr.net/gh/LinXinyu627/shipinsuoyin@main/videosite-7.3.26.apk", "notes": "更新下载提速：镜像顺序按手机实测定——ghproxy.net(手机端可用)回第一，ghfast/gh-proxy降为兜底；单段超时20s→8s、重试3→2，慢源快速切换不再卡几十秒"}
+{"versionCode": 190, "versionName": "7.3.27", "url": "https://fastly.jsdelivr.net/gh/LinXinyu627/shipinsuoyin@main/videosite-7.3.27.apk", "notes": "修复播放回归：断点续播seek改挂playing事件并防重复、失败静默不影响起播；新增WEB-START起播诊断日志便于定位回退原因"}
