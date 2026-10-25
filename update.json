@@ -1,1 +1,1 @@
-{"versionCode": 161, "versionName": "7.2.100", "url": "https://fastly.jsdelivr.net/gh/LinXinyu627/shipinsuoyin@main/videosite-7.2.100.apk", "notes": "合并重复更新入口（主题面板检查更新并入顶栏按钮）；底部版本行去掉与顶部小字重复的分类数"}
+{"versionCode": 162, "versionName": "7.2.101", "url": "https://fastly.jsdelivr.net/gh/LinXinyu627/shipinsuoyin@main/videosite-7.2.101.apk", "notes": "修复播放失败状态卡「点此重试」点击无效：显示点此重试即自动置可点击标记"}
