@@ -1,1 +1,1 @@
-{"versionCode": 164, "versionName": "7.3.1", "url": "https://fastly.jsdelivr.net/gh/LinXinyu627/shipinsuoyin@main/videosite-7.3.1.apk", "notes": "版本号进入7.3.1：修复切视频时内嵌浏览器播放残留跟过来；修复视频开始播放后进度条控制栏不自动隐藏"}
+{"versionCode": 165, "versionName": "7.3.2", "url": "https://fastly.jsdelivr.net/gh/LinXinyu627/shipinsuoyin@main/videosite-7.3.2.apk", "notes": "修复热词「换一批」偶尔没反应/内容重复：记录已展示词，换一批强制排除（含词池与本地索引兜底路径）"}
