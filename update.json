@@ -1,1 +1,1 @@
-{"versionCode": 137, "versionName": "7.2.76", "url": "https://fastly.jsdelivr.net/gh/LinXinyu627/shipinsuoyin@main/videosite-7.2.76.apk", "notes": "播放回归直连优先（早期可播路径），缓冲超时自动切缓存代理重播一次"}
+{"versionCode": 138, "versionName": "7.2.77", "url": "https://fastly.jsdelivr.net/gh/LinXinyu627/shipinsuoyin@main/videosite-7.2.77.apk", "notes": "播放回归 v7.2.16 链路：代理优先+java 快路径拉分片（去掉 Cronet 卡顿与低码率重写）"}
