@@ -1,1 +1,1 @@
-{"versionCode": 191, "versionName": "7.3.28", "url": "https://fastly.jsdelivr.net/gh/LinXinyu627/shipinsuoyin@main/videosite-7.3.28.apk", "notes": "修复拖动进度条后从头/播放不了：播放中seek大跨度缓冲不再误判失败回退(仅从未起播才回退)；seek后2秒确认补偿一次；SEEK-AFTER日志不再用停用videoView误报"}
+{"versionCode": 192, "versionName": "7.3.29", "url": "https://fastly.jsdelivr.net/gh/LinXinyu627/shipinsuoyin@main/videosite-7.3.29.apk", "notes": "修复退出再进续播位置不更新：退后台立即保存WebView当前进度(原走停用videoView恒0不保存)；退后台暂停视频回前台恢复；onTime抽样诊断日志"}
