@@ -1,1 +1,1 @@
-{"versionCode": 177, "versionName": "7.3.14", "url": "https://fastly.jsdelivr.net/gh/LinXinyu627/shipinsuoyin@main/videosite-7.3.14.apk", "notes": "播放页进度条：滑动屏幕（横滑seek/竖滑亮度音量）时自动调出控制栏和进度条，8秒无操作自动隐藏，不常驻不遮挡画面"}
+{"versionCode": 178, "versionName": "7.3.15", "url": "https://fastly.jsdelivr.net/gh/LinXinyu627/shipinsuoyin@main/videosite-7.3.15.apk", "notes": "修复WebView播放进度条调不出/拖不了：控制栏显示判断误用了已隐藏状态的spinner（WebView起播只隐藏父容器导致永远调不出），已修正；手势捕获层clickable加固"}
