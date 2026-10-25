@@ -1,1 +1,1 @@
-{"versionCode": 163, "versionName": "7.2.102", "url": "https://fastly.jsdelivr.net/gh/LinXinyu627/shipinsuoyin@main/videosite-7.2.102.apk", "notes": "修复App内播不了而外部浏览器能播：ExoPlayer与浏览器内核播放请求分片时补上源站防盗链Referer"}
+{"versionCode": 164, "versionName": "7.3.1", "url": "https://fastly.jsdelivr.net/gh/LinXinyu627/shipinsuoyin@main/videosite-7.3.1.apk", "notes": "版本号进入7.3.1：修复切视频时内嵌浏览器播放残留跟过来；修复视频开始播放后进度条控制栏不自动隐藏"}
