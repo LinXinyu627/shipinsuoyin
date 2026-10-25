@@ -1,1 +1,1 @@
-{"versionCode": 148, "versionName": "7.2.87", "url": "https://fastly.jsdelivr.net/gh/LinXinyu627/shipinsuoyin@main/videosite-7.2.87.apk", "notes": "ExoPlayer失败自动重试一次，减少单视频网络抖动误弹窗"}
+{"versionCode": 149, "versionName": "7.2.88", "url": "https://fastly.jsdelivr.net/gh/LinXinyu627/shipinsuoyin@main/videosite-7.2.88.apk", "notes": "修复TextureView不支持背景色导致的崩溃，黑底改由视频容器承担"}
