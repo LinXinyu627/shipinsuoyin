@@ -1,1 +1,1 @@
-{"versionCode": 179, "versionName": "7.3.16", "url": "https://fastly.jsdelivr.net/gh/LinXinyu627/shipinsuoyin@main/videosite-7.3.16.apk", "notes": "修复拖动进度条失败：横滑改按视频总时长百分比（滑到哪跳到哪，与进度条一致），进度条触摸区域加高更易拖拽，增加seek诊断日志"}
+{"versionCode": 180, "versionName": "7.3.17", "url": "https://fastly.jsdelivr.net/gh/LinXinyu627/shipinsuoyin@main/videosite-7.3.17.apk", "notes": "修复视频画面横滑无作用：WebView 模式横滑时长改取进度条真实时长（原 videoView.getDuration() 返回0导致整个横滑逻辑被跳过），拖动中不再每帧JS seek改为松手一次seek，横滑与进度条拖拽同效果"}
