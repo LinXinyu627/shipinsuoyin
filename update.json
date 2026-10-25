@@ -1,1 +1,1 @@
-{"versionCode": 133, "versionName": "7.2.72", "url": "https://fastly.jsdelivr.net/gh/LinXinyu627/shipinsuoyin@main/videosite-7.2.72.apk", "notes": "更新下载源改为GitHub+jsDelivr镜像（飞书链接无登录跳登录页），下载校验APK格式"}
+{"versionCode": 134, "versionName": "7.2.73", "url": "https://fastly.jsdelivr.net/gh/LinXinyu627/shipinsuoyin@main/videosite-7.2.73.apk", "notes": "更新下载超时修复：镜像含ghproxy，下载超时加长到120s，切换源有提示"}
