@@ -1,1 +1,1 @@
-{"versionCode": 180, "versionName": "7.3.17", "url": "https://fastly.jsdelivr.net/gh/LinXinyu627/shipinsuoyin@main/videosite-7.3.17.apk", "notes": "修复视频画面横滑无作用：WebView 模式横滑时长改取进度条真实时长（原 videoView.getDuration() 返回0导致整个横滑逻辑被跳过），拖动中不再每帧JS seek改为松手一次seek，横滑与进度条拖拽同效果"}
+{"versionCode": 181, "versionName": "7.3.18", "url": "https://fastly.jsdelivr.net/gh/LinXinyu627/shipinsuoyin@main/videosite-7.3.18.apk", "notes": "更新按钮防重复：点击4秒内防抖只能触发一次，检查与下载均加防重入标志——连点不再反复弹出下载进度窗，下载中重复触发只提示一次"}
