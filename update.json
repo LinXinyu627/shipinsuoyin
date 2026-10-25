@@ -1,1 +1,1 @@
-{"versionCode": 166, "versionName": "7.3.3", "url": "https://fastly.jsdelivr.net/gh/LinXinyu627/shipinsuoyin@main/videosite-7.3.3.apk", "notes": "修复拖动进度条从头开始：HLS时长未知时进度条随播放位置扩张，拖动时按真实时长比例换算目标位置"}
+{"versionCode": 167, "versionName": "7.3.4", "url": "https://fastly.jsdelivr.net/gh/LinXinyu627/shipinsuoyin@main/videosite-7.3.4.apk", "notes": "修复拖动进度条从头开始（第二层）：记录用户seek目标，seek后分片加载慢/失败触发播放器重建时，恢复播放到目标位置；切视频清理seek残留"}
