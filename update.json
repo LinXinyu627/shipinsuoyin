@@ -1,1 +1,1 @@
-{"versionCode": 147, "versionName": "7.2.86", "url": "https://fastly.jsdelivr.net/gh/LinXinyu627/shipinsuoyin@main/videosite-7.2.86.apk", "notes": "默认直接用ExoPlayer播放：修复中间蓝色小块、进度条可拖动快进快退、倍速/手势seek全部适配"}
+{"versionCode": 148, "versionName": "7.2.87", "url": "https://fastly.jsdelivr.net/gh/LinXinyu627/shipinsuoyin@main/videosite-7.2.87.apk", "notes": "ExoPlayer失败自动重试一次，减少单视频网络抖动误弹窗"}
