@@ -1,1 +1,1 @@
-{"versionCode": 143, "versionName": "7.2.82", "url": "https://fastly.jsdelivr.net/gh/LinXinyu627/shipinsuoyin@main/videosite-7.2.82.apk", "notes": "软件内浏览器播放改为纯视频画面（WebView 只播视频不浏览原网页）"}
+{"versionCode": 144, "versionName": "7.2.83", "url": "https://fastly.jsdelivr.net/gh/LinXinyu627/shipinsuoyin@main/videosite-7.2.83.apk", "notes": "集成 ExoPlayer(Media3) 内嵌播放器：系统播放器 8s 拉不动分片自动切内嵌播放器软件内直接播放"}
