@@ -1,1 +1,1 @@
-{"versionCode": 186, "versionName": "7.3.23", "url": "https://fastly.jsdelivr.net/gh/LinXinyu627/shipinsuoyin@main/videosite-7.3.23.apk", "notes": "功能去重：①列表页随机入口统一为「随机看一个」大按钮，删除右上角重复的随机图标；②首页「视频站」标题下方的小字注释取消"}
+{"versionCode": 187, "versionName": "7.3.24", "url": "https://fastly.jsdelivr.net/gh/LinXinyu627/shipinsuoyin@main/videosite-7.3.24.apk", "notes": "修复WebView播放时长按屏幕误提示「长按倍速需在播放中」：改用JS桥播放状态判断（原判断用了已停用的videoView恒为false），长按倍速/松手恢复走HTML5 playbackRate"}
