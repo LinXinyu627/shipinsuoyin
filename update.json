@@ -1,1 +1,1 @@
-{"versionCode": 172, "versionName": "7.3.9", "url": "https://fastly.jsdelivr.net/gh/LinXinyu627/shipinsuoyin@main/videosite-7.3.9.apk", "notes": "WebView浏览器内核播放恢复App控制栏：进度条拖拽/手势seek/播放暂停/倍速全部走JS桥控制HTML5 video（浏览器内核seek可靠），进度保存与断点续播同步适配"}
+{"versionCode": 173, "versionName": "7.3.10", "url": "https://fastly.jsdelivr.net/gh/LinXinyu627/shipinsuoyin@main/videosite-7.3.10.apk", "notes": "更新功能优化：下载进度对话框（实时显示已下载MB/换源提示）+ 下载完成通知栏提醒 + 安装前自动引导开启未知来源安装权限"}
