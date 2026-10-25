@@ -1,1 +1,1 @@
-{"versionCode": 175, "versionName": "7.3.12", "url": "https://fastly.jsdelivr.net/gh/LinXinyu627/shipinsuoyin@main/videosite-7.3.12.apk", "notes": "修复更新下载卡在源1/4：APK大文件下载改为ghproxy.net优先（jsDelivr大文件301回源raw手机端不可达会卡），单段超时60s缩短到20s，坏源快速跳过"}
+{"versionCode": 176, "versionName": "7.3.13", "url": "https://fastly.jsdelivr.net/gh/LinXinyu627/shipinsuoyin@main/videosite-7.3.13.apk", "notes": "更新下载进度条显示：先探测APK总大小，进度条按百分比实时走，并显示已下载MB/总MB/百分比；探测失败时显示已下载MB"}
