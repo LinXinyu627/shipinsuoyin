@@ -1,1 +1,1 @@
-{"versionCode": 171, "versionName": "7.3.8", "url": "https://fastly.jsdelivr.net/gh/LinXinyu627/shipinsuoyin@main/videosite-7.3.8.apk", "notes": "播放默认改为浏览器内核（WebView HTML5 video）——与手机自带浏览器同款播放器，进度条seek正常；直连源站m3u8，失败/超时自动回退ExoPlayer，支持断点续播"}
+{"versionCode": 172, "versionName": "7.3.9", "url": "https://fastly.jsdelivr.net/gh/LinXinyu627/shipinsuoyin@main/videosite-7.3.9.apk", "notes": "WebView浏览器内核播放恢复App控制栏：进度条拖拽/手势seek/播放暂停/倍速全部走JS桥控制HTML5 video（浏览器内核seek可靠），进度保存与断点续播同步适配"}
