@@ -1,1 +1,1 @@
-{"versionCode": 145, "versionName": "7.2.84", "url": "https://fastly.jsdelivr.net/gh/LinXinyu627/shipinsuoyin@main/videosite-7.2.84.apk", "notes": "修复 ExoPlayer 崩溃（补齐 androidx.collection 依赖库）"}
+{"versionCode": 146, "versionName": "7.2.85", "url": "https://fastly.jsdelivr.net/gh/LinXinyu627/shipinsuoyin@main/videosite-7.2.85.apk", "notes": "再修 ExoPlayer 崩溃（补齐 CircularIntArray.popFirst 等缺失方法）"}
