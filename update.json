@@ -1,1 +1,1 @@
-{"versionCode": 126, "versionName": "7.2.65", "url": "https://my.feishu.cn/file/Kk0EbgRyfoYNyhxzIPBcGG8q6nf", "notes": "移除内嵌索引，APK由28MB降至6.8MB；索引走GitHub多源热更"}
+{"versionCode": 127, "versionName": "7.2.66", "url": "https://my.feishu.cn/file/PilAbpscNoGEVlxbaLychfoM6R5", "notes": "更新/索引源fastly优先（cdn.jsdelivr在部分网络拒连，fastly实测可达）"}
