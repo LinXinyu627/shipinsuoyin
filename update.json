@@ -1,1 +1,1 @@
-{"versionCode": 165, "versionName": "7.3.2", "url": "https://fastly.jsdelivr.net/gh/LinXinyu627/shipinsuoyin@main/videosite-7.3.2.apk", "notes": "修复热词「换一批」偶尔没反应/内容重复：记录已展示词，换一批强制排除（含词池与本地索引兜底路径）"}
+{"versionCode": 166, "versionName": "7.3.3", "url": "https://fastly.jsdelivr.net/gh/LinXinyu627/shipinsuoyin@main/videosite-7.3.3.apk", "notes": "修复拖动进度条从头开始：HLS时长未知时进度条随播放位置扩张，拖动时按真实时长比例换算目标位置"}
