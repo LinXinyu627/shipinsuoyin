@@ -1,1 +1,1 @@
-{"versionCode": 134, "versionName": "7.2.73", "url": "https://fastly.jsdelivr.net/gh/LinXinyu627/shipinsuoyin@main/videosite-7.2.73.apk", "notes": "更新下载超时修复：镜像含ghproxy，下载超时加长到120s，切换源有提示"}
+{"versionCode": 135, "versionName": "7.2.74", "url": "https://fastly.jsdelivr.net/gh/LinXinyu627/shipinsuoyin@main/videosite-7.2.74.apk", "notes": "播放缓冲超时修复：代理拉分片带源站Referer（xbka分片防盗链403已实锤），超时缩短"}
