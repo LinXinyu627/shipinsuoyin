@@ -1,1 +1,1 @@
-{"versionCode": 142, "versionName": "7.2.81", "url": "https://fastly.jsdelivr.net/gh/LinXinyu627/shipinsuoyin@main/videosite-7.2.81.apk", "notes": "WebView 直接加载源站播放页（复刻浏览器打开页面能播的路径）+ 缓冲20s尽快弹窗"}
+{"versionCode": 143, "versionName": "7.2.82", "url": "https://fastly.jsdelivr.net/gh/LinXinyu627/shipinsuoyin@main/videosite-7.2.82.apk", "notes": "软件内浏览器播放改为纯视频画面（WebView 只播视频不浏览原网页）"}
