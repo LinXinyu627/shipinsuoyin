@@ -1,1 +1,1 @@
-{"versionCode": 182, "versionName": "7.3.19", "url": "https://fastly.jsdelivr.net/gh/LinXinyu627/shipinsuoyin@main/videosite-7.3.19.apk", "notes": "播放页优化：①右上角与右下角重复的全屏按钮只保留右下角一个；②全屏状态下按返回/左上角箭头直接退出播放页，不再退回竖屏（退出全屏请点右下角全屏按钮）"}
+{"versionCode": 183, "versionName": "7.3.20", "url": "https://fastly.jsdelivr.net/gh/LinXinyu627/shipinsuoyin@main/videosite-7.3.20.apk", "notes": "全屏返回行为修正：全屏状态下点左上角箭头或系统返回键=退出全屏回竖屏（不再直接退出播放页）；竖屏状态下点左上角箭头=退出播放页"}
