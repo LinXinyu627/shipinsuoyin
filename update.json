@@ -1,1 +1,1 @@
-{"versionCode": 183, "versionName": "7.3.20", "url": "https://fastly.jsdelivr.net/gh/LinXinyu627/shipinsuoyin@main/videosite-7.3.20.apk", "notes": "全屏返回行为修正：全屏状态下点左上角箭头或系统返回键=退出全屏回竖屏（不再直接退出播放页）；竖屏状态下点左上角箭头=退出播放页"}
+{"versionCode": 184, "versionName": "7.3.21", "url": "https://fastly.jsdelivr.net/gh/LinXinyu627/shipinsuoyin@main/videosite-7.3.21.apk", "notes": "播放页右下角全屏图标去掉圆形背景色（保留点击水波纹反馈）"}
