@@ -1,1 +1,1 @@
-{"versionCode": 169, "versionName": "7.3.6", "url": "https://fastly.jsdelivr.net/gh/LinXinyu627/shipinsuoyin@main/videosite-7.3.6.apk", "notes": "拖动进度条从头（第三层）：诊断证实seek位置正确但seek后码率从1920x1080降档切到720x1280重新解析画面从头——固定最高码率轨道禁降档切换"}
+{"versionCode": 170, "versionName": "7.3.7", "url": "https://fastly.jsdelivr.net/gh/LinXinyu627/shipinsuoyin@main/videosite-7.3.7.apk", "notes": "拖动从头（第四层）：诊断证实seek位置正确但seek后媒体重解析（尺寸1920x1080变720x1280）画面从头渲染——检测尺寸变化后强制重载媒体并二次定位到目标位置"}
