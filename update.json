@@ -1,1 +1,1 @@
-{"versionCode": 167, "versionName": "7.3.4", "url": "https://fastly.jsdelivr.net/gh/LinXinyu627/shipinsuoyin@main/videosite-7.3.4.apk", "notes": "修复拖动进度条从头开始（第二层）：记录用户seek目标，seek后分片加载慢/失败触发播放器重建时，恢复播放到目标位置；切视频清理seek残留"}
+{"versionCode": 168, "versionName": "7.3.5", "url": "https://fastly.jsdelivr.net/gh/LinXinyu627/shipinsuoyin@main/videosite-7.3.5.apk", "notes": "进度条seek问题加诊断日志：记录拖动目标/真实时长/seek后播放器实际位置与状态（用于定位从头播放根因）"}
