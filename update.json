@@ -1,1 +1,1 @@
-{"versionCode": 132, "versionName": "7.2.71", "url": "https://fastly.jsdelivr.net/gh/LinXinyu627/shipinsuoyin@main/videosite.apk", "notes": "失效视频黑名单：播放确认失效/图文帖后本地记录，列表/首页/搜索/相关推荐/随机不再显示"}
+{"versionCode": 133, "versionName": "7.2.72", "url": "https://fastly.jsdelivr.net/gh/LinXinyu627/shipinsuoyin@main/videosite-7.2.72.apk", "notes": "更新下载源改为GitHub+jsDelivr镜像（飞书链接无登录跳登录页），下载校验APK格式"}
