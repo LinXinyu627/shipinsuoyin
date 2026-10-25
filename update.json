@@ -1,1 +1,1 @@
-{"versionCode": 178, "versionName": "7.3.15", "url": "https://fastly.jsdelivr.net/gh/LinXinyu627/shipinsuoyin@main/videosite-7.3.15.apk", "notes": "修复WebView播放进度条调不出/拖不了：控制栏显示判断误用了已隐藏状态的spinner（WebView起播只隐藏父容器导致永远调不出），已修正；手势捕获层clickable加固"}
+{"versionCode": 179, "versionName": "7.3.16", "url": "https://fastly.jsdelivr.net/gh/LinXinyu627/shipinsuoyin@main/videosite-7.3.16.apk", "notes": "修复拖动进度条失败：横滑改按视频总时长百分比（滑到哪跳到哪，与进度条一致），进度条触摸区域加高更易拖拽，增加seek诊断日志"}
