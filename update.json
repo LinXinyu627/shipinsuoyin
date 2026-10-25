@@ -1,1 +1,1 @@
-{"versionCode": 150, "versionName": "7.2.89", "url": "https://fastly.jsdelivr.net/gh/LinXinyu627/shipinsuoyin@main/videosite-7.2.89.apk", "notes": "修复播放就绪后中央解析中提示框不消失的问题"}
+{"versionCode": 151, "versionName": "7.2.90", "url": "https://fastly.jsdelivr.net/gh/LinXinyu627/shipinsuoyin@main/videosite-7.2.90.apk", "notes": "修复缓冲中误显示「已暂停·点击继续」提示框，仅真正暂停时显示"}
