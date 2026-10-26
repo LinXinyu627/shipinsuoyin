@@ -1,1 +1,1 @@
-{"versionCode": 195, "versionName": "7.3.32", "url": "https://fastly.jsdelivr.net/gh/LinXinyu627/shipinsuoyin@main/videosite-7.3.32.apk", "notes": "APK恢复8.8MB：构建不再内置20MB全量索引(搜索走HTTP热更)；jx解析站第一选择+自建WebView第二+Exo第三保留"}
+{"versionCode": 196, "versionName": "7.3.33", "url": "https://fastly.jsdelivr.net/gh/LinXinyu627/shipinsuoyin@main/videosite-7.3.33.apk", "notes": "修复jx第一选择未生效：解析站播放器在iframe内被误判无视频而回退——改为页面加载成功即信任+iframe/主文档video复查，缓冲不立即回退(重试2次)"}
