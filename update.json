@@ -1,1 +1,1 @@
-{"versionCode": 192, "versionName": "7.3.29", "url": "https://fastly.jsdelivr.net/gh/LinXinyu627/shipinsuoyin@main/videosite-7.3.29.apk", "notes": "修复退出再进续播位置不更新：退后台立即保存WebView当前进度(原走停用videoView恒0不保存)；退后台暂停视频回前台恢复；onTime抽样诊断日志"}
+{"versionCode": 193, "versionName": "7.3.30", "url": "https://fastly.jsdelivr.net/gh/LinXinyu627/shipinsuoyin@main/videosite-7.3.30.apk", "notes": "新增jx.lxyy.club解析站兜底：ExoPlayer也拉不动时自动加载解析页播放；先提取解析后的真实直链回自建播放器(进度条/倍速/续播全保留)，提取不到才整页播放"}
