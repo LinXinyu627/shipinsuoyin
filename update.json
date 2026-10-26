@@ -1,1 +1,1 @@
-{"versionCode": 194, "versionName": "7.3.31", "url": "https://fastly.jsdelivr.net/gh/LinXinyu627/shipinsuoyin@main/videosite-7.3.31.apk", "notes": "jx.lxyy.club解析站升为第一播放选择(传入完整CDN直链)：先加载解析站页面播放，失败自动回退自建WebView(第二选择)→Exo；jx播放进度自动保存续播"}
+{"versionCode": 195, "versionName": "7.3.32", "url": "https://fastly.jsdelivr.net/gh/LinXinyu627/shipinsuoyin@main/videosite-7.3.32.apk", "notes": "APK恢复8.8MB：构建不再内置20MB全量索引(搜索走HTTP热更)；jx解析站第一选择+自建WebView第二+Exo第三保留"}
