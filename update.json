@@ -1,1 +1,1 @@
-{"versionCode": 196, "versionName": "7.3.33", "url": "https://fastly.jsdelivr.net/gh/LinXinyu627/shipinsuoyin@main/videosite-7.3.33.apk", "notes": "修复jx第一选择未生效：解析站播放器在iframe内被误判无视频而回退——改为页面加载成功即信任+iframe/主文档video复查，缓冲不立即回退(重试2次)"}
+{"versionCode": 197, "versionName": "7.3.34", "url": "https://fastly.jsdelivr.net/gh/LinXinyu627/shipinsuoyin@main/videosite-7.3.34.apk", "notes": "jx改为解析提取：加载解析站后提取真实直链回App自建播放器播(进度条/倍速/点击交互全保留，无重复进度条/点击不暂停)；提取不到才整页兜底(页面自带控制,App控制条隐藏不叠)"}
