@@ -1,1 +1,1 @@
-{"versionCode": 206, "versionName": "7.3.43", "url": "https://fastly.jsdelivr.net/gh/LinXinyu627/shipinsuoyin@main/videosite-7.3.43.apk", "notes": "热搜词改为每天最新：主源从换源站静态词池（24h缓存、更新频率不可控）改为本地每日索引词频统计（索引每天全量重建，从最新段抽词频），换源站词池降为兜底"}
+{"versionCode": 207, "versionName": "7.3.44", "url": "https://fastly.jsdelivr.net/gh/LinXinyu627/shipinsuoyin@main/videosite-7.3.44.apk", "notes": "热搜词改为随索引同步：索引每日重建时顺带生成 hotwords.txt 热词文件，App 同步索引时一并下载直接用，不再每天单独抓热搜词；索引未更新时热词也保持同步节奏"}
