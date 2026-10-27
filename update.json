@@ -1,1 +1,1 @@
-{"versionCode": 208, "versionName": "7.3.45", "url": "https://fastly.jsdelivr.net/gh/LinXinyu627/shipinsuoyin@main/videosite-7.3.45.apk", "notes": "热搜词改为全部取自网站真实热搜词：索引每日重建时从网站热词列表抓取生成 hotwords.txt，App 同步索引时一并下载直接用；不再从索引标题词频自算"}
+{"versionCode": 209, "versionName": "7.3.46", "url": "https://fastly.jsdelivr.net/gh/LinXinyu627/shipinsuoyin@main/videosite-7.3.46.apk", "notes": "修复搜索页无热搜词：进搜索页发现本地无热词文件时自动触发一次索引同步，立即拉取网站热词文件（约1000词）"}
