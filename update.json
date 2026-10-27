@@ -1,1 +1,1 @@
-{"versionCode": 202, "versionName": "7.3.39", "url": "https://fastly.jsdelivr.net/gh/LinXinyu627/shipinsuoyin@main/videosite-7.3.39.apk", "notes": "修复分页加载：第二页加载失败时明确提示\"加载失败，点此重试\"（原来误显示\"没有更多了\"且无法重试）"}
+{"versionCode": 203, "versionName": "7.3.40", "url": "https://fastly.jsdelivr.net/gh/LinXinyu627/shipinsuoyin@main/videosite-7.3.40.apk", "notes": "清理播放页冗余UI：移除已废弃功能的残留空位/注释（设置入口、锁定浮层、外部播放器位），操作按钮间距对称化；功能零变化"}
