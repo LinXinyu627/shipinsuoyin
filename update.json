@@ -1,1 +1,1 @@
-{"versionCode": 203, "versionName": "7.3.40", "url": "https://fastly.jsdelivr.net/gh/LinXinyu627/shipinsuoyin@main/videosite-7.3.40.apk", "notes": "清理播放页冗余UI：移除已废弃功能的残留空位/注释（设置入口、锁定浮层、外部播放器位），操作按钮间距对称化；功能零变化"}
+{"versionCode": 204, "versionName": "7.3.41", "url": "https://fastly.jsdelivr.net/gh/LinXinyu627/shipinsuoyin@main/videosite-7.3.41.apk", "notes": "清理多余标语/说明文字：删闪屏slogan、首页开发说明小字、列表页'点条数可跳页·随机看一个'冗余提示、搜索页'本地索引未收录'长前缀；全部为纯文案清理，功能不变"}
