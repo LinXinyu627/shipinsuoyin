@@ -1,1 +1,1 @@
-{"versionCode": 211, "versionName": "7.3.48", "url": "https://fastly.jsdelivr.net/gh/LinXinyu627/shipinsuoyin@main/videosite-7.3.48.apk", "notes": "修复热搜词「换一批」无效果：统一取词逻辑——先排除已展示词保证每次出新词，小词池自动重置轮换，兜底源(be21)也支持换批"}
+{"versionCode": 212, "versionName": "7.3.49", "url": "https://fastly.jsdelivr.net/gh/LinXinyu627/shipinsuoyin@main/videosite-7.3.49.apk", "notes": "修复热搜词只有4个且轮换重复：索引已最新时补拉缺失热词文件；本地热词文件缺失或异常小时强制同步拉全量993词；be21兜底加缓存避免每次超时"}
