@@ -1,1 +1,1 @@
-{"versionCode": 192, "versionName": "7.3.29", "url": "https://fastly.jsdelivr.net/gh/LinXinyu627/shipinsuoyin@main/videosite-7.3.29.apk", "notes": "版本回退到7.3.29：自建WebView播放→ExoPlayer兜底→外部浏览器提示；进度条/倍速/续播/点击交互全为App控制"}
+{"versionCode": 200, "versionName": "7.3.37", "url": "https://fastly.jsdelivr.net/gh/LinXinyu627/shipinsuoyin@main/videosite-7.3.37.apk", "notes": "7.3.29基础上修复索引同步：本地索引已是最新时直接完成，不再空转探测被屏蔽的备用源导致误报更新失败；播放链路与7.3.29完全一致(无jx、无声学检测)"}
