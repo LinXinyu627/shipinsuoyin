@@ -1,1 +1,1 @@
-{"versionCode": 199, "versionName": "7.3.36", "url": "https://fastly.jsdelivr.net/gh/LinXinyu627/shipinsuoyin@main/videosite-7.3.36.apk", "notes": "修复播放无声：WebView播放时检测实际音频输出，播放10秒从未检出音频自动回退ExoPlayer(音频路径独立，对更多音轨编码支持更好)；不影响正常视频(静音片段不误判)"}
+{"versionCode": 192, "versionName": "7.3.29", "url": "https://fastly.jsdelivr.net/gh/LinXinyu627/shipinsuoyin@main/videosite-7.3.29.apk", "notes": "版本回退到7.3.29：自建WebView播放→ExoPlayer兜底→外部浏览器提示；进度条/倍速/续播/点击交互全为App控制"}
