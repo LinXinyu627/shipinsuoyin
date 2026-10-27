@@ -1,1 +1,1 @@
-{"versionCode": 201, "versionName": "7.3.38", "url": "https://fastly.jsdelivr.net/gh/LinXinyu627/shipinsuoyin@main/videosite-7.3.38.apk", "notes": "修复播放中自动暂停：来电/通知等系统抢占音频焦点导致WebView视频被系统暂停时，焦点回来自动续播；用户手动暂停的不会误恢复"}
+{"versionCode": 202, "versionName": "7.3.39", "url": "https://fastly.jsdelivr.net/gh/LinXinyu627/shipinsuoyin@main/videosite-7.3.39.apk", "notes": "修复分页加载：第二页加载失败时明确提示\"加载失败，点此重试\"（原来误显示\"没有更多了\"且无法重试）"}
