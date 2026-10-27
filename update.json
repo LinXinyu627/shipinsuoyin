@@ -1,1 +1,1 @@
-{"versionCode": 205, "versionName": "7.3.42", "url": "https://fastly.jsdelivr.net/gh/LinXinyu627/shipinsuoyin@main/videosite-7.3.42.apk", "notes": "参考 taste-skill/impeccable 设计方法论美化：统一文字层级提升可读性——底部导航11→12sp、播放页操作按钮12→13sp、列表页信息行11→12sp、随机按钮12→13sp、首页版本号11→12sp；零功能变化"}
+{"versionCode": 206, "versionName": "7.3.43", "url": "https://fastly.jsdelivr.net/gh/LinXinyu627/shipinsuoyin@main/videosite-7.3.43.apk", "notes": "热搜词改为每天最新：主源从换源站静态词池（24h缓存、更新频率不可控）改为本地每日索引词频统计（索引每天全量重建，从最新段抽词频），换源站词池降为兜底"}
